@@ -22,7 +22,11 @@ From selecting optimal number of clusters we plotted it in 2D as well as 3D plot
 # Conclusion:
 
 Cluster 1: Earning high but spending less
+
 Cluster 2 : Average in terms of earning and spending
+
 Cluster 3 : Earning high and also spending high (TARGET SET)
+
 Cluster 4 : Earning less but spending more
+
 Cluster 5 : Earning less , spending less
